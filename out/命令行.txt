@@ -2,5 +2,3 @@
 python3 ABSyn.py --dataset  ../datasets/titanic.csv --domain ../datasets/titanic-domain.json  --epsilon 1.0 --delta 1e-5 --save ../out/syn.csv
 #数据合成命令
 python3 ABSyn.py --dataset  ../datasets/dataset.csv --domain ../datasets/dataset.csv-domain.json  --epsilon 1.0 --delta 1e-5 --save ../out/synth.csv
-#git password
-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
